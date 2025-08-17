@@ -1,58 +1,44 @@
-absl-py==2.2.2
-astunparse==1.6.3
-blinker==1.9.0
-cachetools==5.5.2
-certifi==2025.4.26
-charset-normalizer==3.4.2
-click==8.1.8
-colorama==0.4.6
-Flask==3.0.0
-flatbuffers==25.2.10
-gast==0.4.0
-google-auth==2.40.1
-google-auth-oauthlib==1.0.0
-google-pasta==0.2.0
-grpcio==1.71.0
-gunicorn==23.0.0
-h5py==3.13.0
-idna==3.10
-importlib_metadata==8.7.0
-imutils==0.5.4
-itsdangerous==2.2.0
-jax==0.4.30
-jaxlib==0.4.30
-Jinja2==3.1.6
-joblib==1.5.0
-keras==2.12.0
-libclang==18.1.1
-Markdown==3.8
-MarkupSafe==3.0.2
-ml_dtypes==0.5.1
-numpy==1.23.5
-oauthlib==3.2.2
-opencv-python==4.5.1.48
-opt_einsum==3.4.0
-packaging==25.0
-protobuf==4.25.7
-pyasn1==0.6.1
-pyasn1_modules==0.4.2
-requests==2.32.3
-requests-oauthlib==2.0.0
-rsa==4.9.1
-scikit-learn==0.24.2
-scipy==1.13.1
-six==1.17.0
-tensorboard==2.12.3
-tensorboard-data-server==0.7.2
-tensorflow==2.12.0
-tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0
-tensorflow-io-gcs-filesystem==0.31.0
-termcolor==3.1.0
-threadpoolctl==3.6.0
-typing_extensions==4.13.2
-urllib3==2.4.0
-Werkzeug==3.1.3
-wrapt==1.14.1
-xgboost==2.0.3
-zipp==3.21.0
+MISSION 
+
+We empower organizations and communities to envision a sustainable future.
+By harnessing environmental intelligence and predictive insights,
+we drive innovation through engineering excellence and purposeful technology.
+Our solutions unlock the full potential of data for competitive, resilient outcomes.
+We are trusted partners in building smarter, greener systems.
+With a diverse, agile team, we push boundaries through collaboration.
+We blend human ingenuity with cutting-edge tools to solve global challenges.
+Through continuous learning, we nurture talent and propagate knowledge.
+We interconnect the digital and physical worlds to create lasting impact.
+Our mission is clear: engineer sustainability for a better planet.
+
+
+SERVICES
+Geospatial Services
+Software Development
+Data Analytics
+Content Annotation
+ Engineering Solutions
+Cloud-Based AI/ML Solutions
+Professional Training
+ Talent Solutions
+
+ARCGIS
+
+ is that it understands location.
+It's like a super-smart mapping tool: Instead of just looking at a flat picture of a map, ArcGIS lets you see and interact with all sorts of information that's "on" or "related to" that map. This could be anything from roads, rivers, and buildings to population density, crime rates, or even where all the coffee shops are.
+Where are the areas with the highest risk of flooding?"
+"What's the shortest route between two points?"
+"Where should we open a new store to reach the most customers?"
+"How has the forest cover changed in this region over the last 20 years?" ArcGIS provides tools to analyze and visualize data to answer these kinds of questions.
+
+
+
+
+
+
+
+
+
+
+
+
